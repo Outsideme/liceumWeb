@@ -1,1 +1,1 @@
-# liceumWeb
+# Website for UL Liceum
